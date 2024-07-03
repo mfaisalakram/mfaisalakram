@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Welcome! Take a seat and have some tea (or coffee if you prefer)! 👋🍵☕</h1>
-<h3 align="center">Software Engineer @DevsSpace</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <h3>About Me</h3>
 <p>I am an incredibly passionate, experienced Software Engineer based out of pakistan.
-Currently, I'm performing full-stack development at DevsSpace. With a proven track record of building 10+ websites, 
+Currently, I'm performing full-stack development with a proven track record of building 10+ websites, 
 CRMs, and CMAs for the top 1% of international real estate teams, I'm always looking forward to working on software 
 projects that showcase my skills while providing deep learning experiences. I find the process of collaborating and 
 learning new skills/tools to improve and build upon software projects an immensely satisfying, fulfilling experience.
