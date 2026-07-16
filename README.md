@@ -2,24 +2,11 @@
 <h3 align="center">Software Engineer</h3>
 
 <h3>About Me</h3>
-<p>I am an incredibly passionate, experienced Software Engineer based out of pakistan.
-Currently, I'm performing full-stack development with a proven track record of building 10+ websites, 
-CRMs, and CMAs for the top 1% of international real estate teams, I'm always looking forward to working on software 
-projects that showcase my skills while providing deep learning experiences. I find the process of collaborating and 
-learning new skills/tools to improve and build upon software projects an immensely satisfying, fulfilling experience.
+<p>I am a Software Engineer based in Pakistan with 3+ years of experience building modern web applications using the MERN stack and Next.js. I have worked on 8+ real-world projects including SaaS platforms, ERP systems, medical platforms, and educational tools — handling everything from React/Next.js frontends to Node.js APIs and database management.</p>
 
-Throughout the COVID-19 pandemic, I worked as a healthcare giver and housing case manager; providing me insight into 
-the importance of software in my role throughout the pandemic. Recently, I worked as a Software Project Manager for 
-Brivity, a real estate software company building software for the top 1% of international real estate teams. As of now, 
-I have fully shifted back into my life-long passion, software engineering. Currently, I am seeking to bring my skills to 
-an innovative tech company with global reach.
+<p>I enjoy taking ownership of projects end-to-end, collaborating with teams, and continuously picking up new tools and technologies. Currently working at DevsSpace IT Services and always open to opportunities that challenge me and push my skills further.</p>
 
-On a more personal level, I have always been interested in software and tech from a young age, as many children growing
- up in the 2000s were. However, the "why" and "how" aspects of the tech I interacted with intrigued me the most. 
-Eventually, this led to my first attempt at modifying a video game, Half-Life, at the age of 6. In all my wisdom, 
-I utterly destroyed those poor files and was bewildered when it would crash on startup... Luckily, I have learned a 
-lot since that first modification and am now working on several modding projects across multiple Bethesda franchises such 
-as The Elder Scrolls and the Fallout series!</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfaisalakram&label=Profile%20views&color=0e75b6&style=flat" alt="mfaisalakram" /> </p>
 
