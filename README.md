@@ -2,9 +2,21 @@
 <h3 align="center">Software Engineer</h3>
 
 <h3>About Me</h3>
-<p>I am a Software Engineer based in Pakistan with 3+ years of experience building modern web applications using the MERN stack and Next.js. I have worked on 8+ real-world projects including SaaS platforms, ERP systems, medical platforms, and educational tools — handling everything from React/Next.js frontends to Node.js APIs and database management.</p>
+<p>I am Software Engineer based out of Pakistan, with 3+ years of experience and a proven 
+track record of building 8+ big web applications — ranging from SaaS platforms and ERP systems to medical 
+and educational tools. I'm always looking forward to working on software projects that showcase my skills 
+while providing deep learning experiences.</p>
 
-<p>I enjoy taking ownership of projects end-to-end, collaborating with teams, and continuously picking up new tools and technologies. Currently working at DevsSpace IT Services and always open to opportunities that challenge me and push my skills further.</p>
+<p>I find  process of collaborating with teams, learning new tools, and taking ownership of projects 
+from start to finish an immensely satisfying experience. Throughout my career I have worked across the 
+full stack — building React/Next.js interfaces, Node.js APIs, and managing databases — which has given 
+me a solid understanding of how great software comes together end to end.</p>
+
+<p>On a more personal level, I have always been drawn to software from a young age. The "why" and "how" 
+behind the things I built always intrigued me the most — and that curiosity is what still drives me today. 
+Currently working at DevsSpace IT Services, and always seeking to bring my skills to innovative tech 
+companies with global reach.</p>
+
 
 
 
