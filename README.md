@@ -31,7 +31,7 @@ as The Elder Scrolls and the Fallout series!</p>
 
 - 💬 Ask me about **ReactJS , MERN Stack**
 
-- 📫 How to reach me **faisalakram1133@gmail.com**
+- 📫 How to reach me **faisal.akram0323@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
