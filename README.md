@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Welcome! Take a seat and have some tea (or coffee if you prefer)! 👋🍵☕</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <h3>About Me</h3>
 <p>I am an incredibly passionate, experienced Software Engineer based out of pakistan.
